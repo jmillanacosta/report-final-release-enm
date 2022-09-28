@@ -1,0 +1,23 @@
+,Dataset 1,Dataset 2,Dataset 3,Dataset 4,Dataset 5
+Source (DOI or URL),https://doi.org/10.1038/s41598-018-24483-z ,https://doi.org/10.3390/nano10102017 ,http://doi.org/10.5281/zenodo.4146981 ,https://doi.org/10.1016/j.impact.2021.100308 ,https://doi.org/10.1021/acsnano.8b07562 
+Authors,"Jang-Sik Choi, My Kieu Ha, Tung Xuan Trinh, Tae Hyun Yoon & Hyung-Gi Byun","Papadiamantis, A.G.; Jänes, J.; Voyiatzis, E.; Sikk, L.; Burk, J.; Burk, P.; Tsoumanis, A.; Ha, M.K.; Yoon, T.H.; Valsami-Jones, E.; Lynch, I.; Melagraki, G.; Tämm, K.; Afantitis","Saarimaki, Laura Aliisa;  Federico, Antonio; Lynch, Iseult; Papadiamantis, Anastasios G.; Tsoumanis, Andreas; Melagraki, Georgia; Afantitis, Antreas;  Serra, Angela;  Greco, Dario","Anastasios G. Papadiamantis, Antreas Afantitis, Andreas Tsoumanis, Eugenia Valsami-Jones, Iseult Lynch, Georgia Melagraki","Labouta, Hagar I.;"
+,,,,,"Asgarian, Nasimeh;"
+,,,,,"Rinker, Kristina;"
+,,,,,"Cramb, David T."
+,,,,,
+License,http://creativecommons.org/licenses/by/4.0/ ,http://creativecommons.org/licenses/by/4.0/ ,http://creativecommons.org/licenses/by/4.0/ ,http://creativecommons.org/licenses/by/4.0/ ,http://creativecommons.org/licenses/by/4.0/ 
+Zenodo Link,https://zenodo.org/record/5743204 ,https://zenodo.org/record/5743788 ,https://zenodo.org/record/5744003 ,https://zenodo.org/record/5744082 ,https://zenodo.org/record/5744302 
+# of Materials,41,28,153,69,118
+# of Assays,59,23,35,3,267
+# of Measurement groups,90,140,440,207,354
+# of Endpoints,1239,1401,249350,1518,6061
+# of Nanomaterial types,7,14,22,14,33
+# of Assay types,9,5,35,3,3
+# of Endpoint types,11,74,3,23,3
+# of Units,7,7,21,1,5
+# of Species,2,2,3,-,8
+# of Unique genes,-,-,39947,-,-
+# of Unique human genes (ENSG),-,-,22841,-,-
+# of Unique mouse genes (ENSMUSG),-,-,16450,-,-
+# of Unique rat genes (ENSRNOG),-,-,609,-,-
+# of not annotated genes,-,-,47,-,-

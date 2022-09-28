@@ -1,0 +1,168 @@
+ID,in eNM,Type
+THP-1 (EFO:0001253),1,BioSystem
+Primary human bronchial epithelial cells (BTO:0002922),0,BioSystem
+Lung (BTO:0000763),0,BioSystem
+MCF-7 (BTO:0000093),1,BioSystem
+A549 (BTO:0000018),1,BioSystem
+HPAEC (BTO:0003151),0,BioSystem
+HeLa (EFO:0001185),1,BioSystem
+Caco-2 (EFO:0001099),1,BioSystem
+Alveolar macrophage (CL:1001603),0,BioSystem
+HMEC_90perc_confluence (EFO:0001188),1,BioSystem
+HepG2 (EFO:0001187),1,BioSystem
+HUVEC (EFO:0002795),1,BioSystem
+hONS (EFO:0005705),1,BioSystem
+CD34 (EFO:0005482 mouse 416B  needs revision),0,BioSystem
+Lung (OVA/Alum sensitized) (BTO:0000763),0,BioSystem
+Spinal cord dissociated cultures (BTO:0001279),0,BioSystem
+HepaRG (EFO:0001186),1,BioSystem
+BMM (CL:0010004),0,BioSystem
+Liver (BTO:0000224),0,BioSystem
+PAEC (BTO:0001141),0,BioSystem
+EA.hy926 (EFO:0003039),1,BioSystem
+PBMC heart (BTO:0001025),0,BioSystem
+HET1A (BTO:0004433),0,BioSystem
+Bronchial epithelium (EFO:0005728),1,BioSystem
+MDDC (BTO:0002900),0,BioSystem
+HAEC (BTO:0004602),0,BioSystem
+Caco-2/HT29-MTX  (EFO:0001099),1,BioSystem
+Colon (BTO:0000269),0,BioSystem
+16lu (EFO:005362),1,BioSystem
+HMEC_50perc_confluence (EFO:0001188),1,BioSystem
+mESC (EFO:0005914),1,BioSystem
+Y79 Jurkat (EFO:0002392),1,BioSystem
+Diaphragm (BTO:0000341),0,BioSystem
+BEAS-2B (EFO:0001089),1,BioSystem
+HaCaT (EFO:0002056),1,BioSystem
+nanoTiO2 (NRCWE-032) (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+MWCNT (Baytube) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+PS (http://purl.enanomapper.org/onto/ENM_9000008),1,Treatment
+MWCNT (NM-401) (http://purl.enanomapper.org/onto/ENM_9000207),1,Treatment
+Graphite nanofibers (http://purl.bioontology.org/ontology/npo#NPO_602),0,Treatment
+Fullerene (http://purl.obolibrary.org/obo/CHEBI_33416),1,Treatment
+TiO2_Acros (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+M-MP-Silica NP (DMPC) (http://purl.bioontology.org/ontology/npo#NPO_1373),0,Treatment
+CuO_COOH (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+nanoTiO2 (anatase)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+Long_carbon_nanotubes (http://purl.bioontology.org/ontology/npo#NPO_606),0,Treatment
+MWCNT (Sigma) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+nanoTiO2 (NRCWE-033) (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+AgNPs (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+110nm_AgNPs  (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+Carbon black (Printex90) (http://purl.obolibrary.org/obo/CHEBI_133602),1,Treatment
+Ag75_PVP (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+CuO_PBS (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+Short_carbon_nanotubes (http://purl.bioontology.org/ontology/npo#NPO_606),0,Treatment
+folic_acid_ZnO (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+TiO2 nanotubes (30nm) (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+MWCNT (Mitsui) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+crocidolite (http://purl.obolibrary.org/obo/CHEBI_46666),1,Treatment
+TiO2_Degussa (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+MWCNT (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+nanoTiO2 (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+AgNPs_100nm (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+AgNPs_5nm (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+MWCNT_IL13 (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+TiO2 (E171)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+CuO_PEG_PBS (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+ZnO_HP1 (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+MWCNT (NCRWE-026) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+AgNO3 (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+Ag75_Citrate (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+mercaptopropyl_trimethoxysilane_ZnO (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+Short_asbestos_fibres (http://purl.obolibrary.org/obo/ENVO_02000106),0,Treatment
+CuO_COOH_PBS (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+TiO2_Mknano  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+SPIO_LPS (http://purl.bioontology.org/ontology/npo#NPO_1374),1,Treatment
+nanoTiO2 (rutile/anatase mix) (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+Au5 (http://purl.bioontology.org/ontology/npo#NPO_401),0,Treatment
+tCNT (http://purl.bioontology.org/ontology/npo#NPO_606),0,Treatment
+Ag_ions (http://purl.bioontology.org/ontology/npo#NPO_1892),0,Treatment
+Long_asbestos_fibres (http://purl.obolibrary.org/obo/ENVO_02000106),0,Treatment
+AuNPs-HDM2 (http://purl.bioontology.org/ontology/npo#NPO_401),1,Treatment
+Carbon black (http://purl.obolibrary.org/obo/CHEBI_133602),1,Treatment
+Carbon black_IL13 (http://purl.obolibrary.org/obo/CHEBI_133602),1,Treatment
+CuO_NH3_OVA (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+SPIO (http://purl.bioontology.org/ontology/npo#NPO_1374),1,Treatment
+SWCNT (Sigma) (http://purl.bioontology.org/ontology/npo#NPO_943),1,Treatment
+Graphite (http://purl.obolibrary.org/obo/CHEBI_132889),1,Treatment
+ZnO (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+20nm_AgNPs (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+ZnO_ZCOTE (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+M-MP-Silica NP (PEG) (http://purl.bioontology.org/ontology/npo#NPO_1373),0,Treatment
+MWCNT (NRCWE-26) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+MWCNT (Bayer) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+Ag10_PVP (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+Silica (http://purl.bioontology.org/ontology/npo#NPO_1373),1,Treatment
+MWCNT (Mitsui7) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+SWCNT (SES) (http://purl.bioontology.org/ontology/npo#NPO_943),1,Treatment
+CuO_OVA (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+TiO2 nanobelt  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+SiO2_AS30 (http://purl.bioontology.org/ontology/npo#NPO_1373),1,Treatment
+CeO2_Nano_Amor (http://purl.enanomapper.org/onto/ENM_9000006),1,Treatment
+mandelic_acid_ZnO (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+nanoSiO2 (http://purl.bioontology.org/ontology/npo#NPO_1373),1,Treatment
+methoxyl_ZnO (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+SiO2 (http://purl.bioontology.org/ontology/npo#NPO_1373),1,Treatment
+nanoTiO2 (NRCWE-001)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+Indoor-nanoTiO2 (sanding dust)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+rCNT (http://purl.bioontology.org/ontology/npo#NPO_606),1,Treatment
+ZnO_Nanosun (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+nanoTiO2 (NRCWE-025)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+M-MP-Silica NP (Pristine) (http://purl.bioontology.org/ontology/npo#NPO_1373),Na,Treatment
+ZnO_MAX (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+Ag10_Citrate (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+nanoTiO2 (rutile hydrophilic)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+SiO2_SM30 (http://purl.bioontology.org/ontology/npo#NPO_1373),1,Treatment
+diethylene_glycol_ZnO (http://purl.bioontology.org/ontology/npo#NPO_1542),1,Treatment
+rCNT_aspiration (http://purl.bioontology.org/ontology/npo#NPO_606),1,Treatment
+CuO_COOH_OVA (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+NanoAg (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+AgNPs_cysteine (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+Fe3O4_TiO2_NP (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+asbestos (http://purl.obolibrary.org/obo/CHEBI_46661),1,Treatment
+nanoTiO2 (NRCWE-002)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+WC (http://purl.enanomapper.org/onto/ENM_9000257),1,Treatment
+CuO_NH3_PBS (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+Au40  (http://purl.bioontology.org/ontology/npo#NPO_401),1,Treatment
+30nm_AgNPs (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+AuNPs  (http://purl.bioontology.org/ontology/npo#NPO_401),1,Treatment
+Graphene quantum dots  (http://purl.bioontology.org/ontology/npo#NPO_589),0,Treatment
+MWCNT (Cheaptubes) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+nanoTiO2 (NRCWE-030)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+GONH2 (http://purl.obolibrary.org/obo/CHEBI_132889),1,Treatment
+60nm_AgNPs (http://purl.bioontology.org/ontology/npo#NPO_1892),1,Treatment
+UFP,Na,Treatment
+SiO2_LPS (http://purl.bioontology.org/ontology/npo#NPO_1373),1,Treatment
+rCNT_inhalation (http://purl.bioontology.org/ontology/npo#NPO_606),1,Treatment
+CeO2_Alfa_Aesar (http://purl.enanomapper.org/onto/ENM_9000006),1,Treatment
+TiO2 nanotubes (100nm)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+GO  (http://purl.obolibrary.org/obo/CHEBI_132889),1,Treatment
+MWCNT (SES) (http://purl.bioontology.org/ontology/npo#NPO_354),1,Treatment
+nanoTiO2 (rutile hydrophobic)  (http://purl.obolibrary.org/obo/CHEBI_51050),0,Treatment
+CuO_PEG_OVA (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+CuO (http://purl.obolibrary.org/obo/CHEBI_83159),1,Treatment
+Mus musculus (NCBITAXON:10090),1,Organism
+Rattus norvegicus (NCBITAXON:10116),1,Organism
+Homo sapiens (NCBITAXON:9606),1,Organism
+ug/cm2 (NCIT:C67311),0,Dose unit
+mg/l (UO:0000273),1,Dose unit
+ng/ml (UO:0000275),1,Dose unit
+mg/kgbw/day (NCIT:C66976),0,Dose unit
+ppm (UO:0000169),1,Dose unit
+ug (UO:0000023),1,Dose unit
+mg/m3 (NCIT:C67306),0,Dose unit
+uM (UO:0000064),1,Dose unit
+LD (MSIO:0000175),0,Dose unit
+ng (UO:0000024),1,Dose unit
+mg/ml (UO:0000176),1,Dose unit
+ug/ml (UO:0000274),1,Dose unit
+ug/mL (UO:0000274),1,Dose unit
+h post exposure (UO:0000032),1,Time point unit
+h (UO:0000032),1,Time point unit
+hours (UO:0000032),1,Time point unit
+d (UO:0000033),1,Time point unit
+days (UO:0000033),1,Time point unit
+week (UO:0000034),1,Time point unit
+weeks (UO:0000034),1,Time point unit
+mo (UO:0000035),1,Time point unit
