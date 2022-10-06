@@ -1,7 +1,6 @@
 anyio==3.6.1
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 attrs==22.1.0
 autocommand==2.2.1
 Babel==2.10.3
@@ -286,7 +285,6 @@ zipp==3.8.1
 anyio==3.6.1
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 attrs==22.1.0
 autocommand==2.2.1
 Babel==2.10.3
