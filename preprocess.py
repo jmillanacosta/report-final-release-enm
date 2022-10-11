@@ -8,8 +8,8 @@ def do_preprocess():
     data = data.replace(np.NaN, "")
     iriPattern = re.compile(r'[A-Za-z]+[:_]\d+')
     # Split provided eNM term into IRI and Label
-    data['iri'] = [re.search(iriPattern, enmTerm).group().replace("_",":") if re.   search(iriPattern, enmTerm) is not None else "" for enmTerm in data['eNM term']]
-    data['label'] = [enmTerm.replace(re.search(iriPattern, enmTerm).group(), "")    for enmTerm in data['eNM term']]
+    data['iri'] = [re.search(iriPattern, enmTerm).group().replace("_",":") if re.search(iriPattern, enmTerm) is not None else "" for enmTerm in data['eNM term']]
+    data['label'] = [enmTerm.replace(re.search(iriPattern, enmTerm).group(), "") for enmTerm in data['eNM term']]
     # Unpivot based on OECD test guideline
     oecd = data['described variable.OECD Testguideline'].apply(lambda x : pd.Series (str(x).split(";"))).stack()
     data = pd.merge(oecd.reset_index(), data.reset_index(), left_on = 'level_0',    right_on = 'index').rename(columns={0:"oecd_guideline"}).drop(["level_0",  "level_1", "index", "described variable.OECD Testguideline"], axis=1)
