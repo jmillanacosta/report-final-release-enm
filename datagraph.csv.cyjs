@@ -1,0 +1,2235 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "datagraph.csv",
+    "name" : "datagraph.csv",
+    "SUID" : 33373,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "33748",
+        "shared_name" : "Eccentricity",
+        "name" : "Eccentricity",
+        "degree_layout" : 1,
+        "SUID" : 33748,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3418.500527737813,
+        "y" : 611.9549572619189
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33746",
+        "shared_name" : "CHEMINF:000192",
+        "name" : "CHEMINF:000192",
+        "degree_layout" : 1,
+        "SUID" : 33746,
+        "label" : "eccentric connectivity index descriptor",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3413.1391112329693,
+        "y" : 515.7669470054725
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33741",
+        "shared_name" : "Boxivity",
+        "name" : "Boxivity",
+        "degree_layout" : 1,
+        "SUID" : 33741,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3316.178937314229,
+        "y" : 611.9549572619189
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33739",
+        "shared_name" : "CHEMINF:000092",
+        "name" : "CHEMINF:000092",
+        "degree_layout" : 1,
+        "SUID" : 33739,
+        "label" : "topological descriptor",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3313.249381674393,
+        "y" : 470.7775210028247
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33734",
+        "shared_name" : "Perimeter [nm]",
+        "name" : "Perimeter [nm]",
+        "degree_layout" : 1,
+        "SUID" : 33734,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3089.4674636338514,
+        "y" : 912.1855849986453
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33732",
+        "shared_name" : "PATO:0001711",
+        "name" : "PATO:0001711",
+        "degree_layout" : 1,
+        "SUID" : 33732,
+        "label" : "perimeter",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3088.969768859023,
+        "y" : 852.4754877173186
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33727",
+        "shared_name" : "Extend",
+        "name" : "Extend",
+        "degree_layout" : 1,
+        "SUID" : 33727,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2988.969768859023,
+        "y" : 960.214837082553
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33725",
+        "shared_name" : "PATO:0001708",
+        "name" : "PATO:0001708",
+        "degree_layout" : 1,
+        "SUID" : 33725,
+        "label" : "1-D extent",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2988.1957262586257,
+        "y" : 811.0233138819552
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33721",
+        "shared_name" : "Boundary Size [nm]",
+        "name" : "Boundary Size [nm]",
+        "degree_layout" : 1,
+        "SUID" : 33721,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2450.319610261591,
+        "y" : 292.75787451507455
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33714",
+        "shared_name" : "Size",
+        "name" : "Size",
+        "degree_layout" : 1,
+        "SUID" : 33714,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2582.0207992213545,
+        "y" : 132.18818693849
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33712",
+        "shared_name" : "PATO:0000117",
+        "name" : "PATO:0000117",
+        "degree_layout" : 3,
+        "SUID" : 33712,
+        "label" : "size",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2492.2797096672307,
+        "y" : 203.0597467505217
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33705",
+        "shared_name" : "DLS",
+        "name" : "DLS",
+        "degree_layout" : 1,
+        "SUID" : 33705,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2789.385943580443,
+        "y" : 130.90644332389255
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33703",
+        "shared_name" : "ENM:8000297",
+        "name" : "ENM:8000297",
+        "degree_layout" : 2,
+        "SUID" : 33703,
+        "label" : "size_DLS",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2790.1538478168286,
+        "y" : 197.23943121322145
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33699",
+        "shared_name" : "AB_inhibition",
+        "name" : "AB_inhibition",
+        "degree_layout" : 1,
+        "SUID" : 33699,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2239.5998144417067,
+        "y" : 379.98394541864093
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33695",
+        "shared_name" : "AB_induction",
+        "name" : "AB_induction",
+        "degree_layout" : 1,
+        "SUID" : 33695,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2436.7402375700763,
+        "y" : 422.32257123163595
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33691",
+        "shared_name" : "AB_effect",
+        "name" : "AB_effect",
+        "degree_layout" : 1,
+        "SUID" : 33691,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2363.372210836678,
+        "y" : 354.9368290441359
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33687",
+        "shared_name" : "AB_100_MED",
+        "name" : "AB_100_MED",
+        "degree_layout" : 1,
+        "SUID" : 33687,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2172.198596904244,
+        "y" : 467.5581449595645
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33683",
+        "shared_name" : "AB_100_AVG",
+        "name" : "AB_100_AVG",
+        "degree_layout" : 1,
+        "SUID" : 33683,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2434.59173903492,
+        "y" : 521.2008213537061
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33679",
+        "shared_name" : "AB_MED",
+        "name" : "AB_MED",
+        "degree_layout" : 1,
+        "SUID" : 33679,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2345.8054536345294,
+        "y" : 588.4528278844679
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33674",
+        "shared_name" : "AB_AVG",
+        "name" : "AB_AVG",
+        "degree_layout" : 1,
+        "SUID" : 33674,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2242.6229966643145,
+        "y" : 557.0959324376905
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33672",
+        "shared_name" : "ENM:8000224",
+        "name" : "ENM:8000224",
+        "degree_layout" : 7,
+        "SUID" : 33672,
+        "label" : "Alamar Blue assay",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2325.353015280037,
+        "y" : 469.40728802851095
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33667",
+        "shared_name" : "Area",
+        "name" : "Area",
+        "degree_layout" : 1,
+        "SUID" : 33667,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2886.648178435439,
+        "y" : 960.214837082553
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33665",
+        "shared_name" : "ENM:8000059",
+        "name" : "ENM:8000059",
+        "degree_layout" : 1,
+        "SUID" : 33665,
+        "label" : "area",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2884.326588011855,
+        "y" : 884.0896789624225
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33660",
+        "shared_name" : "Solidity",
+        "name" : "Solidity",
+        "degree_layout" : 1,
+        "SUID" : 33660,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2784.326588011855,
+        "y" : 960.214837082553
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33658",
+        "shared_name" : "ENM:8000056",
+        "name" : "ENM:8000056",
+        "degree_layout" : 1,
+        "SUID" : 33658,
+        "label" : "solidity",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2783.220928020775,
+        "y" : 820.8612964722149
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33654",
+        "shared_name" : "Minor Axis [nm]",
+        "name" : "Minor Axis [nm]",
+        "degree_layout" : 1,
+        "SUID" : 33654,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3054.011738148208,
+        "y" : 312.13987831647626
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33650",
+        "shared_name" : "Major Axis [nm]",
+        "name" : "Major Axis [nm]",
+        "degree_layout" : 1,
+        "SUID" : 33650,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3127.589536991591,
+        "y" : 216.95798592145673
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33646",
+        "shared_name" : "Main Elongation",
+        "name" : "Main Elongation",
+        "degree_layout" : 1,
+        "SUID" : 33646,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2921.983984318252,
+        "y" : 134.42024712140795
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33642",
+        "shared_name" : "Convexity #2",
+        "name" : "Convexity #2",
+        "degree_layout" : 1,
+        "SUID" : 33642,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3078.961241093154,
+        "y" : 107.5605669456267
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33637",
+        "shared_name" : "Convexity",
+        "name" : "Convexity",
+        "degree_layout" : 1,
+        "SUID" : 33637,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2935.851515141006,
+        "y" : 292.6941042381071
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33635",
+        "shared_name" : "ENM:8000054",
+        "name" : "ENM:8000054",
+        "degree_layout" : 5,
+        "SUID" : 33635,
+        "label" : "shape descriptors",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2994.685042222407,
+        "y" : 205.34196953351727
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33630",
+        "shared_name" : "Roundness",
+        "name" : "Roundness",
+        "degree_layout" : 1,
+        "SUID" : 33630,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2780.4953626210945,
+        "y" : 737.6995679343221
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33628",
+        "shared_name" : "ENM:8000053",
+        "name" : "ENM:8000053",
+        "degree_layout" : 1,
+        "SUID" : 33628,
+        "label" : "roundness",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2778.1737721975105,
+        "y" : 671.3018532742235
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33624",
+        "shared_name" : "Maximum Ferets Diameter",
+        "name" : "Maximum Ferets Diameter",
+        "degree_layout" : 1,
+        "SUID" : 33624,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3361.5201421710353,
+        "y" : 414.64674254587004
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33619",
+        "shared_name" : "Minimum Ferets Diameter",
+        "name" : "Minimum Ferets Diameter",
+        "degree_layout" : 1,
+        "SUID" : 33619,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3332.3135877943373,
+        "y" : 216.90073096552334
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33617",
+        "shared_name" : "ENM:8000040",
+        "name" : "ENM:8000040",
+        "degree_layout" : 2,
+        "SUID" : 33617,
+        "label" : "feret diameter",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3332.92750542083,
+        "y" : 321.4659649554394
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33613",
+        "shared_name" : "Circularity #2",
+        "name" : "Circularity #2",
+        "degree_layout" : 1,
+        "SUID" : 33613,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3536.1557430057237,
+        "y" : 698.9217933957713
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33608",
+        "shared_name" : "Circularity",
+        "name" : "Circularity",
+        "degree_layout" : 1,
+        "SUID" : 33608,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3537.955414657877,
+        "y" : 544.3413121693163
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33606",
+        "shared_name" : "ENM:8000038",
+        "name" : "ENM:8000038",
+        "degree_layout" : 2,
+        "SUID" : 33606,
+        "label" : "circularity",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3537.353401851866,
+        "y" : 622.1560766441444
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33602",
+        "shared_name" : "Relative_protein_binding_SDS.SD",
+        "name" : "Relative_protein_binding_SDS.SD",
+        "degree_layout" : 1,
+        "SUID" : 33602,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2519.6894324519612,
+        "y" : 370.957967789067
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33598",
+        "shared_name" : "Binding capacity_wt%.SD",
+        "name" : "Binding capacity_wt%.SD",
+        "degree_layout" : 1,
+        "SUID" : 33598,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2520.4019080285925,
+        "y" : 635.7540681713907
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33594",
+        "shared_name" : "Absolute_protein_binding_BCA.SD",
+        "name" : "Absolute_protein_binding_BCA.SD",
+        "degree_layout" : 1,
+        "SUID" : 33594,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2919.490956681897,
+        "y" : 467.3000469516648
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33590",
+        "shared_name" : "NTA.SD",
+        "name" : "NTA.SD",
+        "degree_layout" : 1,
+        "SUID" : 33590,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2544.2792438040915,
+        "y" : 437.86010075442795
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33586",
+        "shared_name" : "DLS.SD",
+        "name" : "DLS.SD",
+        "degree_layout" : 2,
+        "SUID" : 33586,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2789.079959770309,
+        "y" : 290.52559283484345
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33582",
+        "shared_name" : "PDI.SD",
+        "name" : "PDI.SD",
+        "degree_layout" : 1,
+        "SUID" : 33582,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2530.484910061436,
+        "y" : 477.5351663238483
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33578",
+        "shared_name" : "Electrophoretic.mobility.SD",
+        "name" : "Electrophoretic.mobility.SD",
+        "degree_layout" : 1,
+        "SUID" : 33578,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2688.9691475933723,
+        "y" : 578.1877190429684
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33572",
+        "shared_name" : "TEM.SD",
+        "name" : "TEM.SD",
+        "degree_layout" : 1,
+        "SUID" : 33572,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2818.80660977331,
+        "y" : 360.95670434687514
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33568",
+        "shared_name" : "TEM.shortest.SD",
+        "name" : "TEM.shortest.SD",
+        "degree_layout" : 1,
+        "SUID" : 33568,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2880.176778403491,
+        "y" : 524.1829098753481
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33564",
+        "shared_name" : "TEM.longest.SD",
+        "name" : "TEM.longest.SD",
+        "degree_layout" : 1,
+        "SUID" : 33564,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2684.89930785701,
+        "y" : 241.60599720692048
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33555",
+        "shared_name" : "Size.SD",
+        "name" : "Size.SD",
+        "degree_layout" : 2,
+        "SUID" : 33555,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2627.026254166157,
+        "y" : 307.771228468617
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33553",
+        "shared_name" : "NPO:1804",
+        "name" : "NPO:1804",
+        "degree_layout" : 14,
+        "SUID" : 33553,
+        "label" : "standard deviation",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2687.3640216361227,
+        "y" : 461.1393671118498
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33549",
+        "shared_name" : "CV_inhibition",
+        "name" : "CV_inhibition",
+        "degree_layout" : 1,
+        "SUID" : 33549,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2307.536405218541,
+        "y" : 733.997258150994
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33545",
+        "shared_name" : "CV_induction",
+        "name" : "CV_induction",
+        "degree_layout" : 1,
+        "SUID" : 33545,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2532.643228294503,
+        "y" : 764.176579638949
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33541",
+        "shared_name" : "CV_effect",
+        "name" : "CV_effect",
+        "degree_layout" : 1,
+        "SUID" : 33541,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2447.723862452316,
+        "y" : 713.2058982902528
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33537",
+        "shared_name" : "CV_100_MED",
+        "name" : "CV_100_MED",
+        "degree_layout" : 1,
+        "SUID" : 33537,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2196.969657327187,
+        "y" : 823.3953533406734
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33533",
+        "shared_name" : "CV_100_AVG",
+        "name" : "CV_100_AVG",
+        "degree_layout" : 1,
+        "SUID" : 33533,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2478.8176863779267,
+        "y" : 879.4698905998231
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33529",
+        "shared_name" : "CV_MED",
+        "name" : "CV_MED",
+        "degree_layout" : 1,
+        "SUID" : 33529,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2390.031400977536,
+        "y" : 946.7218971305848
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33524",
+        "shared_name" : "CV_AVG",
+        "name" : "CV_AVG",
+        "degree_layout" : 1,
+        "SUID" : 33524,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2286.8489440073204,
+        "y" : 915.3650016838075
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33522",
+        "shared_name" : "BAO:0003009",
+        "name" : "BAO:0003009",
+        "degree_layout" : 7,
+        "SUID" : 33522,
+        "label" : "cell viability assay",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2369.578962623043,
+        "y" : 827.6763572746278
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33518",
+        "shared_name" : "LDH_inhibition",
+        "name" : "LDH_inhibition",
+        "degree_layout" : 1,
+        "SUID" : 33518,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3036.3121812996637,
+        "y" : 526.1480865623162
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33514",
+        "shared_name" : "LDH_induction",
+        "name" : "LDH_induction",
+        "degree_layout" : 1,
+        "SUID" : 33514,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3206.7021349129454,
+        "y" : 549.0318254552471
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33510",
+        "shared_name" : "LDH_effect",
+        "name" : "LDH_effect",
+        "degree_layout" : 1,
+        "SUID" : 33510,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3146.709342937091,
+        "y" : 439.0885181301074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33506",
+        "shared_name" : "LDH_100_MED",
+        "name" : "LDH_100_MED",
+        "degree_layout" : 1,
+        "SUID" : 33506,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2975.598581140973,
+        "y" : 582.7160600743878
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33502",
+        "shared_name" : "LDH_100_AVG",
+        "name" : "LDH_100_AVG",
+        "degree_layout" : 1,
+        "SUID" : 33502,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3204.553636377789,
+        "y" : 647.9100755773175
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33498",
+        "shared_name" : "LDH_MED",
+        "name" : "LDH_MED",
+        "degree_layout" : 1,
+        "SUID" : 33498,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3118.8071770586585,
+        "y" : 703.6107429992913
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33493",
+        "shared_name" : "LDH_AVG",
+        "name" : "LDH_AVG",
+        "degree_layout" : 1,
+        "SUID" : 33493,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3015.6247200884436,
+        "y" : 672.253847552514
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33491",
+        "shared_name" : "NPO:1709",
+        "name" : "NPO:1709",
+        "degree_layout" : 7,
+        "SUID" : 33491,
+        "label" : "LDH release assay",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3098.354738704166,
+        "y" : 584.5652031433343
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33486",
+        "shared_name" : "Diameter",
+        "name" : "Diameter",
+        "degree_layout" : 1,
+        "SUID" : 33486,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2656.287024412439,
+        "y" : 821.5987677770977
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33484",
+        "shared_name" : "NPO:1539",
+        "name" : "NPO:1539",
+        "degree_layout" : 1,
+        "SUID" : 33484,
+        "label" : "particle diameter",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2653.9654339888552,
+        "y" : 713.8594184118633
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33480",
+        "shared_name" : "STEM",
+        "name" : "STEM",
+        "degree_layout" : 1,
+        "SUID" : 33480,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2900.192370498599,
+        "y" : 746.9485312059369
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33475",
+        "shared_name" : "STEM.SD",
+        "name" : "STEM.SD",
+        "degree_layout" : 2,
+        "SUID" : 33475,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2852.022592490687,
+        "y" : 574.4677972876311
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33473",
+        "shared_name" : "NPO:1454",
+        "name" : "NPO:1454",
+        "degree_layout" : 2,
+        "SUID" : 33473,
+        "label" : "scanning transmission electron microscopy",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2900.7283328543845,
+        "y" : 669.7103815161468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33469",
+        "shared_name" : "Zeta.SD",
+        "name" : "Zeta.SD",
+        "degree_layout" : 2,
+        "SUID" : 33469,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2847.144798613662,
+        "y" : 421.153573044467
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33464",
+        "shared_name" : "Zeta",
+        "name" : "Zeta",
+        "degree_layout" : 1,
+        "SUID" : 33464,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3091.291359282607,
+        "y" : 374.43811131351
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33462",
+        "shared_name" : "NPO:1302",
+        "name" : "NPO:1302",
+        "degree_layout" : 2,
+        "SUID" : 33462,
+        "label" : "zeta potential",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2976.0312970648947,
+        "y" : 396.42194462649826
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33458",
+        "shared_name" : "BET.SD",
+        "name" : "BET.SD",
+        "degree_layout" : 2,
+        "SUID" : 33458,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2542.5144946296687,
+        "y" : 526.8743739956944
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33453",
+        "shared_name" : "BET",
+        "name" : "BET",
+        "degree_layout" : 1,
+        "SUID" : 33453,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2310.6895153076457,
+        "y" : 650.7807555461364
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33451",
+        "shared_name" : "NPO:1235",
+        "name" : "NPO:1235",
+        "degree_layout" : 2,
+        "SUID" : 33451,
+        "label" : "surface area",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2445.509087684993,
+        "y" : 583.648550733423
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33446",
+        "shared_name" : "NP00921",
+        "name" : "NP00921",
+        "degree_layout" : 1,
+        "SUID" : 33446,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3492.457512938434,
+        "y" : 932.4916352956511
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33444",
+        "shared_name" : "CHEBI:46666",
+        "name" : "CHEBI:46666",
+        "degree_layout" : 1,
+        "SUID" : 33444,
+        "label" : "crocidolite asbestos",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3490.13592251485,
+        "y" : 811.9569620287697
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33439",
+        "shared_name" : "NP00920",
+        "name" : "NP00920",
+        "degree_layout" : 1,
+        "SUID" : 33439,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3596.69435204341,
+        "y" : 934.923496160659
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33437",
+        "shared_name" : "CHEBI:82297",
+        "name" : "CHEBI:82297",
+        "degree_layout" : 1,
+        "SUID" : 33437,
+        "label" : "carbon black",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3595.58869205233,
+        "y" : 868.1890688053535
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33433",
+        "shared_name" : "NP00932",
+        "name" : "NP00932",
+        "degree_layout" : 1,
+        "SUID" : 33433,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3222.1939636584407,
+        "y" : 709.6505951405586
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33429",
+        "shared_name" : "NP00931",
+        "name" : "NP00931",
+        "degree_layout" : 1,
+        "SUID" : 33429,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3392.5839172717215,
+        "y" : 767.7963165761056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33425",
+        "shared_name" : "NP00930",
+        "name" : "NP00930",
+        "degree_layout" : 1,
+        "SUID" : 33425,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3319.2158905383235,
+        "y" : 700.4105743886055
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33421",
+        "shared_name" : "NP00926",
+        "name" : "NP00926",
+        "degree_layout" : 1,
+        "SUID" : 33421,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3161.4803634997493,
+        "y" : 801.4805511952461
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33417",
+        "shared_name" : "NP00925",
+        "name" : "NP00925",
+        "degree_layout" : 1,
+        "SUID" : 33417,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3390.435418736565,
+        "y" : 866.6745666981758
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33413",
+        "shared_name" : "NP00924",
+        "name" : "NP00924",
+        "degree_layout" : 1,
+        "SUID" : 33413,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3301.649133336175,
+        "y" : 933.9265732289375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33403",
+        "shared_name" : "NP00923",
+        "name" : "NP00923",
+        "degree_layout" : 1,
+        "SUID" : 33403,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3198.46667636596,
+        "y" : 902.5696777821602
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33401",
+        "shared_name" : "NPO:606",
+        "name" : "NPO:606",
+        "degree_layout" : 7,
+        "SUID" : 33401,
+        "label" : "carbon nanotube",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3281.196694981683,
+        "y" : 814.8810333729806
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "33751",
+        "source" : "33746",
+        "target" : "33748",
+        "shared_name" : "CHEMINF:000192 (named variable) Eccentricity",
+        "name" : "CHEMINF:000192 (named variable) Eccentricity",
+        "interaction" : "named variable",
+        "SUID" : 33751,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33744",
+        "source" : "33739",
+        "target" : "33741",
+        "shared_name" : "CHEMINF:000092 (named variable) Boxivity",
+        "name" : "CHEMINF:000092 (named variable) Boxivity",
+        "interaction" : "named variable",
+        "SUID" : 33744,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33737",
+        "source" : "33732",
+        "target" : "33734",
+        "shared_name" : "PATO:0001711 (named variable) Perimeter [nm]",
+        "name" : "PATO:0001711 (named variable) Perimeter [nm]",
+        "interaction" : "named variable",
+        "SUID" : 33737,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33730",
+        "source" : "33725",
+        "target" : "33727",
+        "shared_name" : "PATO:0001708 (named variable) Extend",
+        "name" : "PATO:0001708 (named variable) Extend",
+        "interaction" : "named variable",
+        "SUID" : 33730,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33723",
+        "source" : "33712",
+        "target" : "33721",
+        "shared_name" : "PATO:0000117 (named variable) Boundary Size [nm]",
+        "name" : "PATO:0000117 (named variable) Boundary Size [nm]",
+        "interaction" : "named variable",
+        "SUID" : 33723,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33719",
+        "source" : "33712",
+        "target" : "33555",
+        "shared_name" : "PATO:0000117 (named variable) Size.SD",
+        "name" : "PATO:0000117 (named variable) Size.SD",
+        "interaction" : "named variable",
+        "SUID" : 33719,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33717",
+        "source" : "33712",
+        "target" : "33714",
+        "shared_name" : "PATO:0000117 (named variable) Size",
+        "name" : "PATO:0000117 (named variable) Size",
+        "interaction" : "named variable",
+        "SUID" : 33717,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33710",
+        "source" : "33703",
+        "target" : "33586",
+        "shared_name" : "ENM:8000297 (named variable) DLS.SD",
+        "name" : "ENM:8000297 (named variable) DLS.SD",
+        "interaction" : "named variable",
+        "SUID" : 33710,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33708",
+        "source" : "33703",
+        "target" : "33705",
+        "shared_name" : "ENM:8000297 (named variable) DLS",
+        "name" : "ENM:8000297 (named variable) DLS",
+        "interaction" : "named variable",
+        "SUID" : 33708,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33701",
+        "source" : "33672",
+        "target" : "33699",
+        "shared_name" : "ENM:8000224 (named variable) AB_inhibition",
+        "name" : "ENM:8000224 (named variable) AB_inhibition",
+        "interaction" : "named variable",
+        "SUID" : 33701,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33697",
+        "source" : "33672",
+        "target" : "33695",
+        "shared_name" : "ENM:8000224 (named variable) AB_induction",
+        "name" : "ENM:8000224 (named variable) AB_induction",
+        "interaction" : "named variable",
+        "SUID" : 33697,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33693",
+        "source" : "33672",
+        "target" : "33691",
+        "shared_name" : "ENM:8000224 (named variable) AB_effect",
+        "name" : "ENM:8000224 (named variable) AB_effect",
+        "interaction" : "named variable",
+        "SUID" : 33693,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33689",
+        "source" : "33672",
+        "target" : "33687",
+        "shared_name" : "ENM:8000224 (named variable) AB_100_MED",
+        "name" : "ENM:8000224 (named variable) AB_100_MED",
+        "interaction" : "named variable",
+        "SUID" : 33689,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33685",
+        "source" : "33672",
+        "target" : "33683",
+        "shared_name" : "ENM:8000224 (named variable) AB_100_AVG",
+        "name" : "ENM:8000224 (named variable) AB_100_AVG",
+        "interaction" : "named variable",
+        "SUID" : 33685,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33681",
+        "source" : "33672",
+        "target" : "33679",
+        "shared_name" : "ENM:8000224 (named variable) AB_MED",
+        "name" : "ENM:8000224 (named variable) AB_MED",
+        "interaction" : "named variable",
+        "SUID" : 33681,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33677",
+        "source" : "33672",
+        "target" : "33674",
+        "shared_name" : "ENM:8000224 (named variable) AB_AVG",
+        "name" : "ENM:8000224 (named variable) AB_AVG",
+        "interaction" : "named variable",
+        "SUID" : 33677,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33670",
+        "source" : "33665",
+        "target" : "33667",
+        "shared_name" : "ENM:8000059 (named variable) Area",
+        "name" : "ENM:8000059 (named variable) Area",
+        "interaction" : "named variable",
+        "SUID" : 33670,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33663",
+        "source" : "33658",
+        "target" : "33660",
+        "shared_name" : "ENM:8000056 (named variable) Solidity",
+        "name" : "ENM:8000056 (named variable) Solidity",
+        "interaction" : "named variable",
+        "SUID" : 33663,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33656",
+        "source" : "33635",
+        "target" : "33654",
+        "shared_name" : "ENM:8000054 (named variable) Minor Axis [nm]",
+        "name" : "ENM:8000054 (named variable) Minor Axis [nm]",
+        "interaction" : "named variable",
+        "SUID" : 33656,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33652",
+        "source" : "33635",
+        "target" : "33650",
+        "shared_name" : "ENM:8000054 (named variable) Major Axis [nm]",
+        "name" : "ENM:8000054 (named variable) Major Axis [nm]",
+        "interaction" : "named variable",
+        "SUID" : 33652,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33648",
+        "source" : "33635",
+        "target" : "33646",
+        "shared_name" : "ENM:8000054 (named variable) Main Elongation",
+        "name" : "ENM:8000054 (named variable) Main Elongation",
+        "interaction" : "named variable",
+        "SUID" : 33648,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33644",
+        "source" : "33635",
+        "target" : "33642",
+        "shared_name" : "ENM:8000054 (named variable) Convexity #2",
+        "name" : "ENM:8000054 (named variable) Convexity #2",
+        "interaction" : "named variable",
+        "SUID" : 33644,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33640",
+        "source" : "33635",
+        "target" : "33637",
+        "shared_name" : "ENM:8000054 (named variable) Convexity",
+        "name" : "ENM:8000054 (named variable) Convexity",
+        "interaction" : "named variable",
+        "SUID" : 33640,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33633",
+        "source" : "33628",
+        "target" : "33630",
+        "shared_name" : "ENM:8000053 (named variable) Roundness",
+        "name" : "ENM:8000053 (named variable) Roundness",
+        "interaction" : "named variable",
+        "SUID" : 33633,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33626",
+        "source" : "33617",
+        "target" : "33624",
+        "shared_name" : "ENM:8000040 (named variable) Maximum Ferets Diameter",
+        "name" : "ENM:8000040 (named variable) Maximum Ferets Diameter",
+        "interaction" : "named variable",
+        "SUID" : 33626,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33622",
+        "source" : "33617",
+        "target" : "33619",
+        "shared_name" : "ENM:8000040 (named variable) Minimum Ferets Diameter",
+        "name" : "ENM:8000040 (named variable) Minimum Ferets Diameter",
+        "interaction" : "named variable",
+        "SUID" : 33622,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33615",
+        "source" : "33606",
+        "target" : "33613",
+        "shared_name" : "ENM:8000038 (named variable) Circularity #2",
+        "name" : "ENM:8000038 (named variable) Circularity #2",
+        "interaction" : "named variable",
+        "SUID" : 33615,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33611",
+        "source" : "33606",
+        "target" : "33608",
+        "shared_name" : "ENM:8000038 (named variable) Circularity",
+        "name" : "ENM:8000038 (named variable) Circularity",
+        "interaction" : "named variable",
+        "SUID" : 33611,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33604",
+        "source" : "33553",
+        "target" : "33602",
+        "shared_name" : "NPO:1804 (named variable) Relative_protein_binding_SDS.SD",
+        "name" : "NPO:1804 (named variable) Relative_protein_binding_SDS.SD",
+        "interaction" : "named variable",
+        "SUID" : 33604,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33600",
+        "source" : "33553",
+        "target" : "33598",
+        "shared_name" : "NPO:1804 (named variable) Binding capacity_wt%.SD",
+        "name" : "NPO:1804 (named variable) Binding capacity_wt%.SD",
+        "interaction" : "named variable",
+        "SUID" : 33600,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33596",
+        "source" : "33553",
+        "target" : "33594",
+        "shared_name" : "NPO:1804 (named variable) Absolute_protein_binding_BCA.SD",
+        "name" : "NPO:1804 (named variable) Absolute_protein_binding_BCA.SD",
+        "interaction" : "named variable",
+        "SUID" : 33596,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33592",
+        "source" : "33553",
+        "target" : "33590",
+        "shared_name" : "NPO:1804 (named variable) NTA.SD",
+        "name" : "NPO:1804 (named variable) NTA.SD",
+        "interaction" : "named variable",
+        "SUID" : 33592,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33588",
+        "source" : "33553",
+        "target" : "33586",
+        "shared_name" : "NPO:1804 (named variable) DLS.SD",
+        "name" : "NPO:1804 (named variable) DLS.SD",
+        "interaction" : "named variable",
+        "SUID" : 33588,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33584",
+        "source" : "33553",
+        "target" : "33582",
+        "shared_name" : "NPO:1804 (named variable) PDI.SD",
+        "name" : "NPO:1804 (named variable) PDI.SD",
+        "interaction" : "named variable",
+        "SUID" : 33584,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33580",
+        "source" : "33553",
+        "target" : "33578",
+        "shared_name" : "NPO:1804 (named variable) Electrophoretic.mobility.SD",
+        "name" : "NPO:1804 (named variable) Electrophoretic.mobility.SD",
+        "interaction" : "named variable",
+        "SUID" : 33580,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33576",
+        "source" : "33553",
+        "target" : "33469",
+        "shared_name" : "NPO:1804 (named variable) Zeta.SD",
+        "name" : "NPO:1804 (named variable) Zeta.SD",
+        "interaction" : "named variable",
+        "SUID" : 33576,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33574",
+        "source" : "33553",
+        "target" : "33572",
+        "shared_name" : "NPO:1804 (named variable) TEM.SD",
+        "name" : "NPO:1804 (named variable) TEM.SD",
+        "interaction" : "named variable",
+        "SUID" : 33574,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33570",
+        "source" : "33553",
+        "target" : "33568",
+        "shared_name" : "NPO:1804 (named variable) TEM.shortest.SD",
+        "name" : "NPO:1804 (named variable) TEM.shortest.SD",
+        "interaction" : "named variable",
+        "SUID" : 33570,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33566",
+        "source" : "33553",
+        "target" : "33564",
+        "shared_name" : "NPO:1804 (named variable) TEM.longest.SD",
+        "name" : "NPO:1804 (named variable) TEM.longest.SD",
+        "interaction" : "named variable",
+        "SUID" : 33566,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33562",
+        "source" : "33553",
+        "target" : "33475",
+        "shared_name" : "NPO:1804 (named variable) STEM.SD",
+        "name" : "NPO:1804 (named variable) STEM.SD",
+        "interaction" : "named variable",
+        "SUID" : 33562,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33560",
+        "source" : "33553",
+        "target" : "33458",
+        "shared_name" : "NPO:1804 (named variable) BET.SD",
+        "name" : "NPO:1804 (named variable) BET.SD",
+        "interaction" : "named variable",
+        "SUID" : 33560,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33558",
+        "source" : "33553",
+        "target" : "33555",
+        "shared_name" : "NPO:1804 (named variable) Size.SD",
+        "name" : "NPO:1804 (named variable) Size.SD",
+        "interaction" : "named variable",
+        "SUID" : 33558,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33551",
+        "source" : "33522",
+        "target" : "33549",
+        "shared_name" : "BAO:0003009 (named variable) CV_inhibition",
+        "name" : "BAO:0003009 (named variable) CV_inhibition",
+        "interaction" : "named variable",
+        "SUID" : 33551,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33547",
+        "source" : "33522",
+        "target" : "33545",
+        "shared_name" : "BAO:0003009 (named variable) CV_induction",
+        "name" : "BAO:0003009 (named variable) CV_induction",
+        "interaction" : "named variable",
+        "SUID" : 33547,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33543",
+        "source" : "33522",
+        "target" : "33541",
+        "shared_name" : "BAO:0003009 (named variable) CV_effect",
+        "name" : "BAO:0003009 (named variable) CV_effect",
+        "interaction" : "named variable",
+        "SUID" : 33543,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33539",
+        "source" : "33522",
+        "target" : "33537",
+        "shared_name" : "BAO:0003009 (named variable) CV_100_MED",
+        "name" : "BAO:0003009 (named variable) CV_100_MED",
+        "interaction" : "named variable",
+        "SUID" : 33539,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33535",
+        "source" : "33522",
+        "target" : "33533",
+        "shared_name" : "BAO:0003009 (named variable) CV_100_AVG",
+        "name" : "BAO:0003009 (named variable) CV_100_AVG",
+        "interaction" : "named variable",
+        "SUID" : 33535,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33531",
+        "source" : "33522",
+        "target" : "33529",
+        "shared_name" : "BAO:0003009 (named variable) CV_MED",
+        "name" : "BAO:0003009 (named variable) CV_MED",
+        "interaction" : "named variable",
+        "SUID" : 33531,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33527",
+        "source" : "33522",
+        "target" : "33524",
+        "shared_name" : "BAO:0003009 (named variable) CV_AVG",
+        "name" : "BAO:0003009 (named variable) CV_AVG",
+        "interaction" : "named variable",
+        "SUID" : 33527,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33520",
+        "source" : "33491",
+        "target" : "33518",
+        "shared_name" : "NPO:1709 (named variable) LDH_inhibition",
+        "name" : "NPO:1709 (named variable) LDH_inhibition",
+        "interaction" : "named variable",
+        "SUID" : 33520,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33516",
+        "source" : "33491",
+        "target" : "33514",
+        "shared_name" : "NPO:1709 (named variable) LDH_induction",
+        "name" : "NPO:1709 (named variable) LDH_induction",
+        "interaction" : "named variable",
+        "SUID" : 33516,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33512",
+        "source" : "33491",
+        "target" : "33510",
+        "shared_name" : "NPO:1709 (named variable) LDH_effect",
+        "name" : "NPO:1709 (named variable) LDH_effect",
+        "interaction" : "named variable",
+        "SUID" : 33512,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33508",
+        "source" : "33491",
+        "target" : "33506",
+        "shared_name" : "NPO:1709 (named variable) LDH_100_MED",
+        "name" : "NPO:1709 (named variable) LDH_100_MED",
+        "interaction" : "named variable",
+        "SUID" : 33508,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33504",
+        "source" : "33491",
+        "target" : "33502",
+        "shared_name" : "NPO:1709 (named variable) LDH_100_AVG",
+        "name" : "NPO:1709 (named variable) LDH_100_AVG",
+        "interaction" : "named variable",
+        "SUID" : 33504,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33500",
+        "source" : "33491",
+        "target" : "33498",
+        "shared_name" : "NPO:1709 (named variable) LDH_MED",
+        "name" : "NPO:1709 (named variable) LDH_MED",
+        "interaction" : "named variable",
+        "SUID" : 33500,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33496",
+        "source" : "33491",
+        "target" : "33493",
+        "shared_name" : "NPO:1709 (named variable) LDH_AVG",
+        "name" : "NPO:1709 (named variable) LDH_AVG",
+        "interaction" : "named variable",
+        "SUID" : 33496,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33489",
+        "source" : "33484",
+        "target" : "33486",
+        "shared_name" : "NPO:1539 (named variable) Diameter",
+        "name" : "NPO:1539 (named variable) Diameter",
+        "interaction" : "named variable",
+        "SUID" : 33489,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33482",
+        "source" : "33473",
+        "target" : "33480",
+        "shared_name" : "NPO:1454 (named variable) STEM",
+        "name" : "NPO:1454 (named variable) STEM",
+        "interaction" : "named variable",
+        "SUID" : 33482,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33478",
+        "source" : "33473",
+        "target" : "33475",
+        "shared_name" : "NPO:1454 (named variable) STEM.SD",
+        "name" : "NPO:1454 (named variable) STEM.SD",
+        "interaction" : "named variable",
+        "SUID" : 33478,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33471",
+        "source" : "33462",
+        "target" : "33469",
+        "shared_name" : "NPO:1302 (named variable) Zeta.SD",
+        "name" : "NPO:1302 (named variable) Zeta.SD",
+        "interaction" : "named variable",
+        "SUID" : 33471,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33467",
+        "source" : "33462",
+        "target" : "33464",
+        "shared_name" : "NPO:1302 (named variable) Zeta",
+        "name" : "NPO:1302 (named variable) Zeta",
+        "interaction" : "named variable",
+        "SUID" : 33467,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33460",
+        "source" : "33451",
+        "target" : "33458",
+        "shared_name" : "NPO:1235 (named variable) BET.SD",
+        "name" : "NPO:1235 (named variable) BET.SD",
+        "interaction" : "named variable",
+        "SUID" : 33460,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33456",
+        "source" : "33451",
+        "target" : "33453",
+        "shared_name" : "NPO:1235 (named variable) BET",
+        "name" : "NPO:1235 (named variable) BET",
+        "interaction" : "named variable",
+        "SUID" : 33456,
+        "shared_interaction" : "named variable",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33449",
+        "source" : "33444",
+        "target" : "33446",
+        "shared_name" : "CHEBI:46666 (named nano) NP00921",
+        "name" : "CHEBI:46666 (named nano) NP00921",
+        "interaction" : "named nano",
+        "SUID" : 33449,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33442",
+        "source" : "33437",
+        "target" : "33439",
+        "shared_name" : "CHEBI:82297 (named nano) NP00920",
+        "name" : "CHEBI:82297 (named nano) NP00920",
+        "interaction" : "named nano",
+        "SUID" : 33442,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33435",
+        "source" : "33401",
+        "target" : "33433",
+        "shared_name" : "NPO:606 (named nano) NP00932",
+        "name" : "NPO:606 (named nano) NP00932",
+        "interaction" : "named nano",
+        "SUID" : 33435,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33431",
+        "source" : "33401",
+        "target" : "33429",
+        "shared_name" : "NPO:606 (named nano) NP00931",
+        "name" : "NPO:606 (named nano) NP00931",
+        "interaction" : "named nano",
+        "SUID" : 33431,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33427",
+        "source" : "33401",
+        "target" : "33425",
+        "shared_name" : "NPO:606 (named nano) NP00930",
+        "name" : "NPO:606 (named nano) NP00930",
+        "interaction" : "named nano",
+        "SUID" : 33427,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33423",
+        "source" : "33401",
+        "target" : "33421",
+        "shared_name" : "NPO:606 (named nano) NP00926",
+        "name" : "NPO:606 (named nano) NP00926",
+        "interaction" : "named nano",
+        "SUID" : 33423,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33419",
+        "source" : "33401",
+        "target" : "33417",
+        "shared_name" : "NPO:606 (named nano) NP00925",
+        "name" : "NPO:606 (named nano) NP00925",
+        "interaction" : "named nano",
+        "SUID" : 33419,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33415",
+        "source" : "33401",
+        "target" : "33413",
+        "shared_name" : "NPO:606 (named nano) NP00924",
+        "name" : "NPO:606 (named nano) NP00924",
+        "interaction" : "named nano",
+        "SUID" : 33415,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33411",
+        "source" : "33401",
+        "target" : "33403",
+        "shared_name" : "NPO:606 (named nano) NP00923",
+        "name" : "NPO:606 (named nano) NP00923",
+        "interaction" : "named nano",
+        "SUID" : 33411,
+        "shared_interaction" : "named nano",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
