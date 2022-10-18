@@ -1,0 +1,27 @@
+source,interaction,target
+contributor,releases,enanomapper.owl
+Build slims workflow,uses,Slimmer
+Build slims workflow,is a,GitHub actions workflow
+ROBOT workflow,is a,GitHub actions workflow
+ROBOT workflow,uses,ROBOT
+ROBOT,produces,report file
+ROBOT,produces,merge
+ROBOT,produces,diff
+ROBOT,extracts,annotation property
+enanomapper.owl,merge input,ROBOT
+ROBOT,merge output,enanomapper-full.owl
+Slimmer,produces,slim
+report,is a,report file
+merge,produces,enanomapper-full.owl
+diff,is a,report file
+bao-props,is a,annotation property
+cheminf-props,is a,annotation property
+Build slims workflow,commits and pushes,external term
+contributor,runs,GitHub actions workflow
+schedule,runs,GitHub actions workflow
+slim,is ,external term
+contributor,curates,internal term
+external term,owl:Imports,enanomapper.owl
+internal term,owl:Imports,enanomapper.owl
+ROBOT workflow,commits and pushes,report file
+annotation property,owl:Imports,enanomapper.owl
